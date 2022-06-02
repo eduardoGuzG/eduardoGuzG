@@ -1,5 +1,5 @@
 <div align="left">
-   <h1>Hi there, I’m Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi there, I’m Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoGuzG" alt="eduardoGuzG" /> </p>
 
